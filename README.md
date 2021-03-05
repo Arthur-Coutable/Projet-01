@@ -14,6 +14,10 @@ Voulant conserver les relations de voisinages mais pas la distance qui est très
 
 Les résultats sont disponibles sous forme de graphes.
 
+-------------------------------------------------------
+
+Il est visiblement possible de former un certain nombre de clusters de granularités variables qui conservent en 2D les relations de voisinages. 
+
 
 
 
